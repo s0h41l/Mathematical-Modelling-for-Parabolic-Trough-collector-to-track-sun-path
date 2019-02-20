@@ -1,0 +1,13 @@
+c:\users\sohai\onedrive\documents\visual studio 2015\Projects\Grapher\Grapher\bin\Debug\Grapher.exe.config
+c:\users\sohai\onedrive\documents\visual studio 2015\Projects\Grapher\Grapher\bin\Debug\Grapher.exe
+c:\users\sohai\onedrive\documents\visual studio 2015\Projects\Grapher\Grapher\bin\Debug\Grapher.pdb
+c:\users\sohai\onedrive\documents\visual studio 2015\Projects\Grapher\Grapher\obj\Debug\Grapher.csprojResolveAssemblyReference.cache
+c:\users\sohai\onedrive\documents\visual studio 2015\Projects\Grapher\Grapher\obj\Debug\Grapher.Main.resources
+c:\users\sohai\onedrive\documents\visual studio 2015\Projects\Grapher\Grapher\obj\Debug\Grapher.Properties.Resources.resources
+c:\users\sohai\onedrive\documents\visual studio 2015\Projects\Grapher\Grapher\obj\Debug\Grapher.csproj.GenerateResource.Cache
+c:\users\sohai\onedrive\documents\visual studio 2015\Projects\Grapher\Grapher\obj\Debug\Grapher.exe
+c:\users\sohai\onedrive\documents\visual studio 2015\Projects\Grapher\Grapher\obj\Debug\Grapher.pdb
+C:\Users\sohai\OneDrive\documents\visual studio 2015\Projects\Grapher\Grapher\bin\Debug\Grapher.exe.manifest
+C:\Users\sohai\OneDrive\documents\visual studio 2015\Projects\Grapher\Grapher\bin\Debug\Grapher.application
+C:\Users\sohai\OneDrive\documents\visual studio 2015\Projects\Grapher\Grapher\obj\Debug\Grapher.exe.manifest
+C:\Users\sohai\OneDrive\documents\visual studio 2015\Projects\Grapher\Grapher\obj\Debug\Grapher.application
