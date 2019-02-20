@@ -101,8 +101,46 @@ namespace Grapher
                 latitude = 30.46;
                 longitude = 70.96;
             }
+            if (comboBoxCity.Text == "Lahore")
+            {
+                latitude = 31.52;
+                longitude = 74.36;
+            }
+            if (comboBoxCity.Text == "Bahawalpur")
+            {
+                latitude = 29.35;
+                longitude = 71.69;
+            }
+
+            if (comboBoxCity.Text == "Multan")
+            {
+                latitude = 30.16;
+                longitude = 71.52;
+            }
+            if (comboBoxCity.Text == "Muzaffargarh")
+            {
+                latitude = 30.07;
+                longitude = 71.18;
+            }
+            if (comboBoxCity.Text == "Khanpur")
+            {
+                latitude = 28.63;
+                longitude = 70.66;
+            }
+            if (comboBoxCity.Text == "Sialkot")
+            {
+                latitude = 32.49;
+                longitude = 74.52;
+            }
+            if (comboBoxCity.Text == "Murree")
+            {
+                latitude = 33.91;
+                longitude = 73.39;
+            }
+
+
             hourAngle = 15*(Convert.ToDouble(textBoxTime.Text)-12);
-            angleOfTilt = Convert.ToDouble(textBoxAngleOfTilt.Text);
+            angleOfTilt = 45;
             daysFrom = Convert.ToDouble(numericUpDownFrom.Value);
             daysTo = Convert.ToDouble(numericUpDownTo.Value);
 
